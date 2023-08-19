@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Failed suite [Suite]]]">
+  <test thread-count="5" name="Test(failed)(failed)(failed)">
+    <classes>
+      <class name="Seleniumexamples.AlertExample2">
+        <methods>
+          <include name="Alertmethod"/>
+        </methods>
+      </class> <!-- Seleniumexamples.AlertExample2 -->
+      <class name="Seleniumexamples.OrangaHRM_Login">
+        <methods>
+          <include name="OrangaHTM"/>
+        </methods>
+      </class> <!-- Seleniumexamples.OrangaHRM_Login -->
+    </classes>
+  </test> <!-- Test(failed)(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Failed suite [Suite]]] -->
